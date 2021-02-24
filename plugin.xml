@@ -1,4 +1,4 @@
-k<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <plugin id="com.googlemaps.ios" version="3.9.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
   <name>Google Maps SDK for iOS</name>
   <description>Install the Google Maps SDK for iOS without CocoaPods</description>
